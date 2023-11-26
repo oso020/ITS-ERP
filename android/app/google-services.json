@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52282890764",
+    "project_id": "itserp-1f32f",
+    "storage_bucket": "itserp-1f32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52282890764:android:a37ffb8791e4c78ca06c29",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdj33H3nmt1DvvXlrWMhxInXUq0DJPaFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
