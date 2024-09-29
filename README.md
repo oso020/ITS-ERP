@@ -74,7 +74,7 @@
 
 <p align="center">
        <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_sales.png" alt="Edit Task" width="220" style="margin: 10px;"/>
-    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table2.png" alt="Task Delete" width="220" style="margin: 10px;"/>
    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table_selected.png" alt="Done Task" width="220" style="margin: 10px;"/>
 </p>
 
