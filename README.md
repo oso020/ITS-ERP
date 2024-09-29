@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_purshese.png" alt="Edit Task" width="220" style="margin: 10px;"/>
+       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_purshese2.png" alt="Edit Task" width="220" style="margin: 10px;"/>
     <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table.png" alt="Task Delete" width="220" style="margin: 10px;"/>
    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table_selected.png" alt="Done Task" width="220" style="margin: 10px;"/>
 </p>
@@ -96,7 +96,7 @@
    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/delete_item.png" alt="Done Task" width="220" style="margin: 10px;"/>
 </p>
 <p align="center">
-       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/shift_table_report.png" alt="Edit Task" width="220" style="margin: 10px;"/>
+       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/shift_table_report2.png" alt="Edit Task" width="220" style="margin: 10px;"/>
     <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/shifts_report.png" alt="Task Delete" width="220" style="margin: 10px;"/>
 </p>
 
