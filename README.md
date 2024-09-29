@@ -51,9 +51,29 @@
 
 
 - flutter run
-<p align="center"> <img src="path/to/your/image1.png" alt="Add Item" width="220" style="margin: 10px;"/> <img src="path/to/your/image2.png" alt="Dashboard" width="220" style="margin: 10px;"/> <img src="path/to/your/image3.png" alt="Chart" width="220" style="margin: 10px;"/> </p>
-Dark Mode
-<p align="center"> <img src="path/to/your/image4.png" alt="Add Item Dark" width="220" style="margin: 10px;"/> <img src="path/to/your/image5.png" alt="Dashboard Dark" width="220" style="margin: 10px;"/> <img src="path/to/your/image6.png" alt="Chart Dark" width="220" style="margin: 10px;"/> </p>
+<p align="center">
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/register.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/login.png" alt="Sign In" width="220" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/valIdator.png" alt="Validator dark" width="220" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/added_task.png" alt="Task" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/home.png" alt="Task Add" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/delete_feature.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+
+
+
+  
+
+</p>
+<p align="center">
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/done_feature.png" alt="Done Task" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/dialog.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
+       <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/edit_task.png" alt="Edit Task" width="220" style="margin: 10px;"/></p>
+<p align="center">
+     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/settings.png" alt="Settings" width="220" style="margin: 10px;"/>
+</p>
 Contributions
 Feel free to fork this repository, open issues, and submit pull requests. Contributions are highly appreciated!
 
