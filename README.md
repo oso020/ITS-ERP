@@ -52,28 +52,58 @@
 
 - flutter run
 <p align="center">
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/register.png" alt="Sign Up" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/login.png" alt="Sign In" width="220" style="margin: 10px;"/>
-     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/valIdator.png" alt="Validator dark" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/splash.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/login.png" alt="Sign In" width="220" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/dynamic_base_url.png" alt="Validator dark" width="220" style="margin: 10px;"/>
 </p>
 
 <p align="center">
-     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/added_task.png" alt="Task" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/home.png" alt="Task Add" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/delete_feature.png" alt="Task Delete" width="220" style="margin: 10px;"/>
-
-
-
-  
+     <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/home.png" alt="Task" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/draws.png" alt="Task Add" width="220" style="margin: 10px;"/>
+      <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/no%20data.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
 
 </p>
+
+
 <p align="center">
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/done_feature.png" alt="Done Task" width="220" style="margin: 10px;"/>
-    <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/dialog.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
-       <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/edit_task.png" alt="Edit Task" width="220" style="margin: 10px;"/></p>
-<p align="center">
-     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/settings.png" alt="Settings" width="220" style="margin: 10px;"/>
+       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/loading.png" alt="Edit Task" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/drawer.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+   <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/drawer_data.png" alt="Done Task" width="220" style="margin: 10px;"/>
+
 </p>
+
+<p align="center">
+       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_sales.png" alt="Edit Task" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_sales.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+   <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table_selected.png" alt="Done Task" width="220" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+       <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_purshese.png" alt="Edit Task" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+   <img src="https://github.com/oso020/ITS-ERP/blob/main/screen_shots/report_table_selected.png" alt="Done Task" width="220" style="margin: 10px;"/>
+</p>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Contributions
 Feel free to fork this repository, open issues, and submit pull requests. Contributions are highly appreciated!
 
