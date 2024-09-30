@@ -3,6 +3,7 @@
 
 # Features
 - Add Items: Easily add new items to the inventory with necessary details.
+- Api & Network: http package for handle api.
 - Delete Items: Remove items from the inventory when they are no longer needed.
 - Dashboard: A comprehensive dashboard to visualize key metrics and data insights.
 - Chart Draws: Generate charts to represent data visually for better understanding.
