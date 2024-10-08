@@ -11,7 +11,7 @@
 - Firebase Messaging: Real-time notifications and updates through Firebase.
 - Responsive UI: Layout adapts to different screen sizes and orientations.
   
-#Technologies Used
+# Technologies Used
 - Flutter: A cross-platform framework to build the app for both Android and iOS.
 - Firebase: For real-time data syncing and notifications.
 - Provider: State management for handling app-wide changes efficiently.
